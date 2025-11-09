@@ -1,10 +1,10 @@
 # x402 Resources
 
-Everything you need to know about x402 - the protocol that finally makes HTTP 402 useful after 28 years.
+Everything you need to know about x402 - the protocol that finally makes HTTP 402 useful after 26 years.
 
 ## What is x402?
 
-x402 is a protocol for pay-per-call API access using crypto. Remember HTTP 402 "Payment Required"? That error code has existed since 1997 but never actually did anything. x402 finally makes it work.
+x402 is a protocol for pay-per-call API access using crypto. Remember HTTP 402 "Payment Required"? That error code has existed since 1999 but never actually did anything. x402 finally makes it work.
 
 ### The basics
 
@@ -34,7 +34,7 @@ Want to use an API? Here's what you have to do:
 - Manage API keys
 - Do this entire dance again when you switch providers
 
-HTTP 402 has been sitting there since 1997 saying "Payment Required" with no actual way to pay. Kind of useless.
+HTTP 402 has been sitting there since 1999 saying "Payment Required" with no actual way to pay. Kind of useless.
 
 ### What x402 changes
 
@@ -51,7 +51,7 @@ HTTP 402 has been sitting there since 1997 saying "Payment Required" with no act
 
 ## How x402 Works
 
-It's built on **thirdweb Nexus** - a hosted proxy that makes the 402 status code actually work on any API.
+The system uses a hosted proxy, enabling the 402 status code to function for payments on any API.
 
 ### If you're building an API
 
