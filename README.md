@@ -144,8 +144,10 @@ The interesting part: regular apps need a human to approve transactions. These a
 
 ## Hackathons
 
-Want to build something with x402? There's a hackathon:
+Want to build something with x402? There are hackathons:
+
 - [Solana x402 Hackathon](https://solana.com/x402/hackathon)
+- [Avalanche x402 Hackathon](https://build.avax.network/hackathons/5ce3a8c2-21db-40fa-b40f-f82ecdde99db)
 
 ---
 
@@ -182,6 +184,7 @@ Want to build something with x402? There's a hackathon:
 - [Dabit3's x402 Demo](https://x.com/dabit3/status/1982658854346494042)
 - [Finematics on x402](https://x.com/finematics/status/1982810231512994014)
 - [x402 Implementation Guide](https://x.com/akashneelesh/status/1985633919329583402)
+- [SolPlay Jonas on x402](https://x.com/SolPlay_jonas/status/1986411538987540817)
 
 ### Articles and threads
 
@@ -203,6 +206,7 @@ Want to build something with x402? There's a hackathon:
 ### More community takes
 
 - [YQ on x402 Architecture](https://x.com/yq_acc/status/1983260307251479024)
+- [YQ on x402 Protocol Design](https://x.com/yq_acc/status/1986887722607530418)
 - [YQ on ERC-8004](https://x.com/yq_acc/status/1985302546349425147)
 - [Jarrod Watts' x402 Thoughts](https://x.com/jarrodwatts/status/1982036553481568512)
 - [Jarrod Watts on Agent Economy](https://x.com/jarrodwatts/status/1986406098681893096)
@@ -235,6 +239,7 @@ Want to build something with x402? There's a hackathon:
 - [x402 Scan](https://www.x402scan.com/) - Explorer
 - [x402 Chat](https://x402.chat/) - Community chat
 - [ERC-8004 Analytics on Dune](https://dune.com/hashed_official/erc8004) - On-chain data
+- [x402 Facilitators](https://facilitators.x402.watch/) - Facilitator network
 
 ---
 
